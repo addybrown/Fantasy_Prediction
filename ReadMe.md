@@ -1,3 +1,11 @@
+Dependencies:
+
+-tensorflow
+-sklearn
+-numpy
+-pandas
+-seaborn
+
 Fantasy Prediction and Data Analysis for NBA Fantasy Season 
 
 Note: Please Run Data Cleaning, Data Analysis, Model Notebooks in Sequential Order 
